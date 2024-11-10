@@ -1,0 +1,25 @@
+body{
+    
+background-color: rgb(151, 197, 59);
+}
+h1{
+    background-color: black;
+    color: blanchedalmond;
+}
+h5{
+    font-family: cursive;
+}
+images1{
+
+float: center;
+width: 200px
+;height: 200px;
+
+}
+center{
+    color: rgb(166, 255, 0);
+    background-color: black;
+
+center:hover{
+    color: rgb(30, 170, 37);
+}
